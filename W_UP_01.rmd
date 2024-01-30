@@ -74,6 +74,7 @@ This table shows the average number of push ups done by the players in the LINE 
 t.test(pushups~position,data=mydata)
 ```
 
+The P-value is 0.000009421, which is less than 0.05, therefor we reject the $H_0$. 
 
 # Discussion and Conclusion
 
